@@ -1,0 +1,88 @@
+.details {
+  text-align: justify;
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.11);
+  border-radius: 10px; }
+  .details .canDoContent {
+    display: flex; }
+
+.home {
+  margin-top: 30px; }
+  .home .profile-image {
+    height: 263px;
+    margin: 0 auto;
+    display: block;
+    border-radius: 10px; }
+  .home h5 {
+    text-align: center;
+    padding-top: 20px; }
+
+.progress-heading {
+  text-align: center;
+  margin-top: 20px;
+  font-weight: bold; }
+
+.progress-content {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 10px; }
+  .progress-content span {
+    width: 145px; }
+
+.progress {
+  max-width: 400px;
+  width: 100%;
+  margin-top: 5px;
+  margin-left: 20px;
+  display: flex; }
+  .progress .progress-bar-outer {
+    padding-left: 0; }
+    .progress .progress-bar-outer .progress-bar {
+      width: 85%; }
+    .progress .progress-bar-outer .css {
+      width: 80%; }
+    .progress .progress-bar-outer .js {
+      width: 75%; }
+    .progress .progress-bar-outer .bs {
+      width: 85%; }
+    .progress .progress-bar-outer .react {
+      width: 70%; }
+    .progress .progress-bar-outer .react-bs {
+      width: 70%; }
+    .progress .progress-bar-outer .sass {
+      width: 90%; }
+
+footer {
+  padding: 20px;
+  background: #000;
+  text-align: center;
+  font-size: 25px;
+  margin-top: 30px;
+  color: #fff; }
+  footer .container .social-icons {
+    display: flex;
+    padding-top: 20px;
+    justify-content: space-around; }
+    footer .container .social-icons li {
+      list-style: none;
+      font-size: 30px; }
+
+@media (min-width: 320px) and (max-width: 768px) {
+  .details {
+    text-align: justify;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.11); }
+    .details .canDoContent {
+      display: flex;
+      text-align: left; }
+    .details .headings {
+      text-align: center; }
+
+  .progress {
+    width: 160px; }
+
+  .progress-content span {
+    margin-left: -15px; } }
+
+/*# sourceMappingURL=style.css.map */
