@@ -18,10 +18,10 @@ class Footer extends Component{
 
                     <ul className="social-icons">
                         <li><a href="https://github.com/mjoyesh"><i class="fab fa-github"></i></a></li>
-                        <li><a href="https://github.com/mjoyesh"><i class="fab fa-linkedin"></i></a></li>
-                        <li><a href="https://github.com/mjoyesh"><i class="fab fa-facebook"></i></a></li>
-                        <li><a href="https://github.com/mjoyesh"><i class="fab fa-instagram"></i></a></li>
-                        <li><a href="https://github.com/mjoyesh"><i class="fab fa-twitter"></i></a></li>
+                        <li><a href="https://www.linkedin.com/in/mjoyesh/"><i class="fab fa-linkedin"></i></a></li>
+                        <li><a href="https://www.facebook.com/mjoyesh"><i class="fab fa-facebook"></i></a></li>
+                        <li><a href="https://www.instagram.com/mjoyesh/"><i class="fab fa-instagram"></i></a></li>
+                        <li><a href="https://twitter.com/mjoyesh"><i class="fab fa-twitter"></i></a></li>
                     </ul>
                 </div>
               {/* </HashRouter> */}

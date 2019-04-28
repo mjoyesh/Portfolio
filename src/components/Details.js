@@ -7,7 +7,7 @@ class Details extends Component{
                     <h2 className="headings">Hey There !</h2>
                     <h4 className="headings">I'm Joyesh Malik</h4>
 
-                    <p className="headings">Allow me to introduce myself</p>
+                    <p className="headings blue-para">Allow me to introduce myself</p>
                     <p>
                         I'm obsessed with making things and even more obssessed with making things better.
                         My speciality is front-end web design and development, making websites and turning
